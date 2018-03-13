@@ -89,6 +89,12 @@ Popular options:
 
 Are you using any other scaffolding tool or method to start new projects? Which one? Why?
 
+## Browser
 
+Which browser fo you use? Why? Do you use any add-ons/plugins? Which ones?
 
+Popular options: 
+- [Chrome](https://www.google.com/chrome/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- [Opera](https://www.opera.com/es)
 
