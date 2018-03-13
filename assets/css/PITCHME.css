@@ -12,13 +12,13 @@
   font-family: 'adventureOutline';
 }
 
-#teacher-juanma-garrido ~ ul {
+.about-me ul {
   display: block;
   list-style-type: none;
   font-size: .6em;
 }
 
-#teacher-juanma-garrido ~ p {
+.about-me p {
   font-size: 1em;
   text-align: left;
   padding: 0.8em .7em 0;
