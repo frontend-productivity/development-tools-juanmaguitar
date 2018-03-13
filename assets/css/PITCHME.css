@@ -21,7 +21,7 @@
 .about-me small {
   display: block
 }
-.about-me link {
+.about-me .links-lists {
   display: flex;
   justify-content: space-between;
 }

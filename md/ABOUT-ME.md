@@ -4,7 +4,7 @@
   **Javascript Full Stack Developer & Trainer**
   <small>Frontend Specialist</small> 
 
-  <div class="links">
+  <div class="links-lists">
     <ul class="personal">
       <li>@fa[envelope] [JuanMa.Garrido@gmail.com](mailto:JuanMa.Garrido@gmail.com)</li>
       <li>@fa[twitter] [@juanmaguitar](https://twitter.com/juanmaguitar)</li>
