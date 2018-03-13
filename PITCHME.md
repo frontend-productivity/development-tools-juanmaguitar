@@ -1,4 +1,4 @@
----?image=assets/img/frontend-productivity-title.png&size=cover
+---?image=assets/img/frontend-productivity-title.png&size=auto 60%
 
 ---
 How much time do you need to start a project?  
