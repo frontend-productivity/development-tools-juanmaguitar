@@ -16,7 +16,7 @@
       <li>@fa[linkedin] [http://www.linkedin.com/in/juanmagarrido](http://www.linkedin.com/in/juanmagarrido)</li>
       <li>@fa[github] [https://github.com/juanmaguitar](https://github.com/juanmaguitar)</li>
     </ul>
-
+   </br>
     <ul class="projects">
       <li>@fa[desktop] [http://pixelovers.com](http://pixelovers.com)</li>
       <li>@fa[twitter] [@pixelovers](https://twitter.com/pixelovers)</li>
