@@ -12,7 +12,7 @@
   font-family: 'adventureOutline';
 }
 
-#personal + ul, #projects + ul {
+#teacher-juanma-garrido ~ ul {
   display: block;
   list-style-type: none;
   font-size: .6em;
