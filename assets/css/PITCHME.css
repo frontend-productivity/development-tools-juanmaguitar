@@ -1,3 +1,17 @@
+@font-face {
+  font-family: 'adventure'; /*a name to be used later*/
+  src: url('../fonts/Adventure.ttf'); /*URL to font*/
+}
+
+@font-face {
+  font-family: 'adventureOutline'; /*a name to be used later*/
+  src: url('../fonts/adventureOutline.ttf'); /*URL to font*/
+}
+
+#frontend-productivity {
+  font-family: 'adventure';
+}
+
 #personal + ul, #projects + ul {
   display: block;
   list-style-type: none;
@@ -7,4 +21,5 @@
 .reveal h3 {
   font-size: 1em;
   text-align: left;
-  padding: 0.8em .7em 0 ;
+  padding: 0.8em .7em 0;
+}
