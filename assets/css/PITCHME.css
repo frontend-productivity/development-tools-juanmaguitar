@@ -15,7 +15,8 @@
 .reveal .personal, .reveal .projects {
   display: block;
   list-style-type: none;
-  font-size: .6em;
+  font-size: 0.8em;
+  margin-bottom: 1em;
 }
 
 .about-me small {
