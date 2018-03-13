@@ -5,7 +5,7 @@
 - @fa[twitter] [@juanmaguitar](https://twitter.com/juanmaguitar)
 - @fa[linkedin] [http://www.linkedin.com/in/juanmagarrido](http://www.linkedin.com/in/juanmagarrido)
 - @fa[github] [https://github.com/juanmaguitar](https://github.com/juanmaguitar)
-  
+
 ### Projects
 - @fa[desktop] [http://pixelovers.com](http://pixelovers.com)
 - @fa[twitter] [@pixelovers](https://twitter.com/pixelovers)
