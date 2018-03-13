@@ -1,8 +1,6 @@
 ## Editors
 
-Which one i usee?
-
----?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
+---?image=https://code.visualstudio.com/opengraphimg/opengraph-blog.png
 
 +++
 
