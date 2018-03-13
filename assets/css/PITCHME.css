@@ -18,6 +18,14 @@
   font-size: .6em;
 }
 
+.about-me small {
+  display: block
+}
+.about-me link {
+  display: flex;
+  justify-content: space-between;
+}
+
 .about-me p {
   font-size: 1em;
   text-align: left;
