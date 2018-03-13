@@ -1,5 +1,6 @@
----?image=assets/img/frontend-productivity-title.png
+---?image=assets/img/frontend-productivity-title.png&size=cover
 
+---
 How much time do you need to start a project?  
 And to change from one project to another?
 
