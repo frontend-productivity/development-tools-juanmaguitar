@@ -1,4 +1,4 @@
 #personal + ul, #projects + ul {
-  text-align: left;
+  display: block;
   list-style-type: none;
 }
