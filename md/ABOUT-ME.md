@@ -1,7 +1,8 @@
 ## Me: JuanMa Garrido
 
 <div class="about-me">
-  **Javascript Full Stack Developer & Trainer | Frontend Specialist**
+  **Javascript Full Stack Developer & Trainer**
+  <small>Frontend Specialist</small> 
 
   <ul class="personal">
     <li>@fa[envelope] [JuanMa.Garrido@gmail.com](mailto:JuanMa.Garrido@gmail.com)</li>
