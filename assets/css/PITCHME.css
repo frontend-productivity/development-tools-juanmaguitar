@@ -12,7 +12,7 @@
   font-family: 'adventureOutline';
 }
 
-.personal, .projects {
+.reveal .personal, .reveal .projects {
   display: block;
   list-style-type: none;
   font-size: .6em;
