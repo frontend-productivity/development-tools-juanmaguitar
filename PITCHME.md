@@ -1,13 +1,5 @@
-# Flux 
+# Frontend Productivity 
 
-An application architecture for React
-
----
-
-### Flux Design
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+How much time do you need to start a project? And to change from one project to another?
 
 ---?include=md/ABOUT-ME.md
