@@ -1,15 +1,15 @@
 @font-face {
-  font-family: 'adventure'; /*a name to be used later*/
-  src: url('../fonts/Adventure.ttf'); /*URL to font*/
+  font-family: 'adventure';
+  src: url('../fonts/Adventure.ttf'); 
 }
 
 @font-face {
-  font-family: 'adventureOutline'; /*a name to be used later*/
-  src: url('../fonts/adventureOutline.ttf'); /*URL to font*/
+  font-family: 'adventureOutline';
+  src: url('../fonts/adventureOutline.ttf');
 }
 
 #frontend-productivity {
-  font-family: 'adventure';
+  font-family: 'adventureOutline';
 }
 
 #personal + ul, #projects + ul {
