@@ -1,4 +1,4 @@
-## Me: JuanMa Garrido
+![juanma](assets/img/juanma-garrido.png)
 
 <div class="about-me">
   **Javascript Full Stack Developer & Trainer**
