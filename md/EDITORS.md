@@ -328,4 +328,7 @@
   }
 ]
 ```
-@[8](You want it, you got it)@[29](Snippets + EMMET = fiuuuu!)@[38](Ease your mind)@[48](Mother of the lamb) 
+@[8](advanced-new-file → You want it, you got it)
+@[29](bootstrap-3-snippets → Snippets + EMMET = fiuuuu!)
+@[38](bracket-pair-colorizer → Ease your mind)
+@[48](code-settings-sync  → Mother of the lamb) 
