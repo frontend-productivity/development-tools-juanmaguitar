@@ -4,6 +4,7 @@
 
 +++
 
+Extensions i use
 ```
 [
   {
@@ -450,10 +451,66 @@
 @[218]([TOP] path-intellisense → Path & Glory)
 @[238]([TOP] prettier-vscode → Your code Nice & Clean)
 @[258](sublime-keybindings → Sublime, i miss you a bit)
+@[328](vscode-eslint → Linters are your friends)
 @[338](vscode-gist → Save your code)
 @[398](vscode-placeholder-images → Place your image)
 @[408](vscode-random → Random whatever you need)
 
 
+---
+My configuration
+```
+{
+    "editor.tabSize": 2,
+    "window.zoomLevel": 1,
+    "editor.fontSize": 14,
+    "terminal.integrated.fontSize": 14,
+    "javascript.validate.enable": false,
+    "editor.renderWhitespace": "boundary",
+    "workbench.colorTheme": "Monokai",
+    "editor.minimap.enabled": false,
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    },
+    "emmet.syntaxProfiles": { 
+      "javascript": "jsx" 
+    },
+    "npm-intellisense.importES6": true,
+    "npm-intellisense.importDeclarationType": "const",
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+    "editor.snippetSuggestions": "top",
+    "sync.gist": "2cd3429f351c15c02c6b57377582cd0a",
+    "sync.lastUpload": "2018-03-14T07:55:43.965Z",
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.lastDownload": "",
+    "sync.forceDownload": false,
+    "sync.anonymousGist": false,
+    "sync.host": "",
+    "sync.pathPrefix": "",
+    "sync.quietSync": false,
+    "sync.askGistName": false,
+    "sublimeTextKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "prettier.eslintIntegration": true,
+    "advancedNewFile.exclude": {
+      "node_modules": true,
+      "node_modules_electron": true,
+      "dev": true,
+      "dist": true
+    },
+    "advancedNewFile.showInformationMessages": true,
+    "advancedNewFile.convenienceOptions": [
+      "last",
+      "current",
+      "root"
+    ],
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "sync.removeExtensions": true,
+    "sync.syncExtensions": true
+  }
+```
 
-
+@[34](prettier → Prettier + ESLint + StandardJS = Win!)
+@[35](advancedNewFile → Exclude some folders)
