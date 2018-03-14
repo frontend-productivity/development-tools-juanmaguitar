@@ -3,6 +3,7 @@
 ---?image=https://code.visualstudio.com/opengraphimg/opengraph-blog.png
 
 +++
+
 <ol>
   <li class="fragment"><a href="https://code.visualstudio.com/docs/editor/emmet" target="_blank">EMMET</a> integrated</li>
   <li class="fragment"><a href="https://code.visualstudio.com/docs/editor/versioncontrol" target="_blank">GIT Integrated</a></li>
