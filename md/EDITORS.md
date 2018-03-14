@@ -44,7 +44,7 @@
     },
     "name": "bracket-pair-colorizer",
     "publisher": "CoenraadS",
-    "version": "0.10.14"
+    "version": "1.0.20"
   },
   {
     "metadata": {
@@ -54,7 +54,7 @@
     },
     "name": "code-settings-sync",
     "publisher": "Shan",
-    "version": "2.8.7"
+    "version": "2.9.0"
   },
   {
     "metadata": {
@@ -74,7 +74,17 @@
     },
     "name": "debugger-for-chrome",
     "publisher": "msjsdiag",
-    "version": "4.1.0"
+    "version": "4.2.0"
+  },
+  {
+    "metadata": {
+      "id": "532533c9-a894-4a58-9eee-bbfbe7c06f71",
+      "publisherId": "mikestead.dotenv",
+      "publisherDisplayName": "mikestead"
+    },
+    "name": "dotenv",
+    "publisher": "mikestead",
+    "version": "1.0.1"
   },
   {
     "metadata": {
@@ -84,7 +94,7 @@
     },
     "name": "EditorConfig",
     "publisher": "EditorConfig",
-    "version": "0.12.0"
+    "version": "0.12.1"
   },
   {
     "metadata": {
@@ -95,6 +105,16 @@
     "name": "html-snippets",
     "publisher": "abusaidm",
     "version": "0.2.1"
+  },
+  {
+    "metadata": {
+      "id": "198a707e-28af-4e84-8610-6e2f628dd12d",
+      "publisherId": "redhat.java",
+      "publisherDisplayName": "redhat"
+    },
+    "name": "java",
+    "publisher": "redhat",
+    "version": "0.20.0"
   },
   {
     "metadata": {
@@ -134,7 +154,17 @@
     },
     "name": "language-stylus",
     "publisher": "sysoev",
-    "version": "1.9.0"
+    "version": "1.9.1"
+  },
+  {
+    "metadata": {
+      "id": "3b1db1fc-c7f7-4bd6-9fa4-b499dfa99a8a",
+      "publisherId": "shd101wyy.markdown-preview-enhanced",
+      "publisherDisplayName": "shd101wyy"
+    },
+    "name": "markdown-preview-enhanced",
+    "publisher": "shd101wyy",
+    "version": "0.3.3"
   },
   {
     "metadata": {
@@ -198,13 +228,33 @@
   },
   {
     "metadata": {
+      "id": "4386e6f6-ec10-4463-9d23-c24278718947",
+      "publisherId": "tomoki1207.pdf",
+      "publisherDisplayName": "tomoki1207"
+    },
+    "name": "pdf",
+    "publisher": "tomoki1207",
+    "version": "0.2.0"
+  },
+  {
+    "metadata": {
+      "id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
+      "publisherId": "esbenp.prettier-vscode",
+      "publisherDisplayName": "esbenp"
+    },
+    "name": "prettier-vscode",
+    "publisher": "esbenp",
+    "version": "1.2.2"
+  },
+  {
+    "metadata": {
       "id": "e52bce95-a629-455f-8626-e7301b9e372a",
       "publisherId": "robinbentley.sass-indented",
       "publisherDisplayName": "robinbentley"
     },
     "name": "sass-indented",
     "publisher": "robinbentley",
-    "version": "1.4.6"
+    "version": "1.4.8"
   },
   {
     "metadata": {
@@ -258,6 +308,16 @@
   },
   {
     "metadata": {
+      "id": "d0febfc8-15fa-4951-bad7-ad5c9682af4a",
+      "publisherId": "marcostazi.VS-code-vagrantfile",
+      "publisherDisplayName": "marcostazi"
+    },
+    "name": "VS-code-vagrantfile",
+    "publisher": "marcostazi",
+    "version": "0.0.7"
+  },
+  {
+    "metadata": {
       "id": "d7b592dd-41c9-4f2b-acf3-055ae65e55c6",
       "publisherId": "dzannotti.vscode-babel-coloring",
       "publisherDisplayName": "dzannotti"
@@ -274,17 +334,17 @@
     },
     "name": "vscode-eslint",
     "publisher": "dbaeumer",
-    "version": "1.4.5"
+    "version": "1.4.7"
   },
   {
     "metadata": {
-      "id": "c07c7f98-0b04-4b22-bd46-e11937eabd90",
-      "publisherId": "dbankier.vscode-gist",
-      "publisherDisplayName": "dbankier"
+      "id": "c3382f5b-0525-4f74-93df-3a82483c1ad8",
+      "publisherId": "kenhowardpdx.vscode-gist",
+      "publisherDisplayName": "kenhowardpdx"
     },
     "name": "vscode-gist",
-    "publisher": "dbankier",
-    "version": "1.0.0"
+    "publisher": "kenhowardpdx",
+    "version": "1.2.0"
   },
   {
     "metadata": {
@@ -298,6 +358,46 @@
   },
   {
     "metadata": {
+      "id": "61fcd0cf-64d7-4836-8d6b-d55f4fb83281",
+      "publisherId": "vscjava.vscode-java-debug",
+      "publisherDisplayName": "vscjava"
+    },
+    "name": "vscode-java-debug",
+    "publisher": "vscjava",
+    "version": "0.6.0"
+  },
+  {
+    "metadata": {
+      "id": "96f11e1f-1a46-4592-b084-f025b2c2a81f",
+      "publisherId": "vscjava.vscode-java-pack",
+      "publisherDisplayName": "vscjava"
+    },
+    "name": "vscode-java-pack",
+    "publisher": "vscjava",
+    "version": "0.3.0"
+  },
+  {
+    "metadata": {
+      "id": "67c06b0d-1891-42ca-b2a8-113e79bff069",
+      "publisherId": "vscjava.vscode-java-test",
+      "publisherDisplayName": "vscjava"
+    },
+    "name": "vscode-java-test",
+    "publisher": "vscjava",
+    "version": "0.4.0"
+  },
+  {
+    "metadata": {
+      "id": "b0f06c6b-24fb-4d7b-bd79-bc5e2fa17312",
+      "publisherId": "vscjava.vscode-maven",
+      "publisherDisplayName": "vscjava"
+    },
+    "name": "vscode-maven",
+    "publisher": "vscjava",
+    "version": "0.5.2"
+  },
+  {
+    "metadata": {
       "id": "76b073cf-a5e7-434b-89a5-dc9203e312f8",
       "publisherId": "JakeWilson.vscode-placeholder-images",
       "publisherDisplayName": "JakeWilson"
@@ -305,6 +405,16 @@
     "name": "vscode-placeholder-images",
     "publisher": "JakeWilson",
     "version": "0.1.0"
+  },
+  {
+    "metadata": {
+      "id": "a4678ccd-2309-4cdd-b6cf-94af8dd7001f",
+      "publisherId": "jrebocho.vscode-random",
+      "publisherDisplayName": "jrebocho"
+    },
+    "name": "vscode-random",
+    "publisher": "jrebocho",
+    "version": "1.3.2"
   },
   {
     "metadata": {
@@ -328,16 +438,22 @@
   }
 ]
 ```
-@[8](advanced-new-file → You want it, you got it)
+@[8]([TOP] advanced-new-file → You want it, you got it)
 @[29](bootstrap-3-snippets → Snippets + EMMET = fiuuuu!)
 @[38](bracket-pair-colorizer → Ease your mind)
-@[48](code-settings-sync → Mother of the lamb) 
+@[48]([TOP] code-settings-sync → Mother of the lamb) 
 @[58](copy-markdown-as-html → Long live to Markdown) 
-@[108](jsx → Give support to your stuff) 
-@[138](markdown-preview-github-styles → Long live to Markdown) 
-@[148](markdown-shortcuts → Long live to Markdown) 
-@[178](npm-intellisense → NPM is alive!)
-@[188](path-intellisense → Path & Glory)
-@[208](sublime-keybindings → Sublime, i miss you a bit)
+@[128](jsx → Give support to your stuff) 
+@[168](markdown-preview-github-styles → Long live to Markdown) 
+@[178](markdown-shortcuts → Long live to Markdown) 
+@[208]([TOP] npm-intellisense → NPM is alive!)
+@[218]([TOP] path-intellisense → Path & Glory)
+@[238]([TOP] prettier-vscode → Your code Nice & Clean)
+@[258](sublime-keybindings → Sublime, i miss you a bit)
+@[338](vscode-gist → Save your code)
+@[398](vscode-placeholder-images → Place your image)
+@[408](vscode-random → Random whatever you need)
+
+
 
 
