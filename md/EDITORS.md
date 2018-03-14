@@ -4,7 +4,7 @@
 
 +++
 
-Extensions i use
+Extensions I use
 ```
 [
   {
@@ -457,7 +457,8 @@ Extensions i use
 @[408](vscode-random → Random whatever you need)
 
 
----
++++
+
 My configuration
 ```
 {
