@@ -1,6 +1,6 @@
 ![terminal](assets/img/terminal.png)
 
----?image=https://hyper.now.sh/static/hyper.png
++++?image=https://hyper.now.sh/static/hyper.png
 
 +++
 

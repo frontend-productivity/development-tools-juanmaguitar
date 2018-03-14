@@ -1,6 +1,6 @@
 ![editors](assets/img/editors.png)
 
----?image=https://code.visualstudio.com/opengraphimg/opengraph-blog.png
++++?image=https://code.visualstudio.com/opengraphimg/opengraph-blog.png
 
 +++
 
