@@ -328,7 +328,16 @@
   }
 ]
 ```
-@[8](advanced-new-file → You want it, you got it)
+@[8](** advanced-new-file → You want it, you got it)
 @[29](bootstrap-3-snippets → Snippets + EMMET = fiuuuu!)
-@[38](bracket-pair-colorizer → Ease your mind)
-@[48](code-settings-sync  → Mother of the lamb) 
+@[38](** bracket-pair-colorizer → Ease your mind)
+@[48](** code-settings-sync → Mother of the lamb) 
+@[58](copy-markdown-as-html → Long live to Markdown) 
+@[108](jsx → Give support to your stuff) 
+@[138](markdown-preview-github-styles → Long live to Markdown) 
+@[148](markdown-shortcuts → Long live to Markdown) 
+@[178](** npm-intellisense → NPM is alive!)
+@[188](** path-intellisense → Path & Glory)
+@[208](** sublime-keybindings → Sublime, i miss you a bit)
+
+
