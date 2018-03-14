@@ -4,6 +4,8 @@
 
 +++
 
+### [Visual code](https://code.visualstudio.com/)
+
 <ol>
   <li class="fragment"><a href="https://code.visualstudio.com/docs/editor/emmet" target="_blank">EMMET integrated</a></li>
   <li class="fragment"><a href="https://code.visualstudio.com/docs/editor/versioncontrol" target="_blank">GIT Integrated</a></li>

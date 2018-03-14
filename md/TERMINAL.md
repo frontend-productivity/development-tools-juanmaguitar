@@ -4,13 +4,12 @@
 
 +++
 
+### [Hyper](https://hyper.is/)
+
 <ol>
-  <li class="fragment"><a href="https://code.visualstudio.com/docs/editor/emmet" target="_blank">EMMET integrated</a></li>
-  <li class="fragment"><a href="https://code.visualstudio.com/docs/editor/versioncontrol" target="_blank">GIT Integrated</a></li>
-  <li class="fragment"><a href="https://code.visualstudio.com/docs/editor/integrated-terminal" target="_blank">Integrated Terminal</a></li>
-  <li class="fragment"><a href="https://code.visualstudio.com/docs/editor/debugging" target="_blank">Debugger integrated</a></li>
-  <li class="fragment"><a href="https://code.visualstudio.com/docs/editor/editingevolved" target="_blank">File Navigation</a></li>
+  <li class="fragment">Same UNIX-like terminal IDE for Windows/Mac/Linux</li>
+  <li class="fragment">Highly customizable</li>
 </ol>
 
-+++
++++?image=http://mekhovov.github.io/images/guides/oh-my-zsh.png
 
