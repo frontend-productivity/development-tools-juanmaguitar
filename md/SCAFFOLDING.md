@@ -17,7 +17,7 @@
 
 ### How do i manage dependencies in frontend?
 
-+++?image=https://cdn-images-1.medium.com/max/1600/1*Qo4yWofQHQKSOtLtTD54Wg.png
++++?image=https://cdn-images-1.medium.com/max/1600/1*Qo4yWofQHQKSOtLtTD54Wg.png?size=cover
 
 +++
 
