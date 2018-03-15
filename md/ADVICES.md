@@ -32,3 +32,15 @@
 
 8.- Don't trust me (or anyone). Try it yourself! Get your own path
 
++++
+
+9.- Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. Code for readability.
+
++++
+
+10.- Be a craftmanship coder. Be organized. Try to find the beauty on doing things right.
+
++++
+
+
+
