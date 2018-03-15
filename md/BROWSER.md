@@ -27,6 +27,23 @@
 
 ![Elements Panel](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/imgs/elements-panel.png)
 
++++
+
+### [Console](https://developers.google.com/web/tools/chrome-devtools/console/)
+
+![Console](https://developers.google.com/web/tools/chrome-devtools/console/images/console-panel.png)
+
++++
+
+### [Sources](https://developers.google.com/web/tools/chrome-devtools/javascript/add-breakpoints)
+
+![Sources](https://developers.google.com/web/tools/chrome-devtools/javascript/imgs/loc-breakpoint.png)
+
++++
+
+### [Network](https://developers.google.com/web/tools/chrome-devtools/network-performance/resource-loading)
+
+![Network](https://developers.google.com/web/tools/chrome-devtools/network-performance/imgs/panes.png)
 
 
 
