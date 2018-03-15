@@ -17,9 +17,6 @@
 
 ### How can i start a new project quickly?
 
-- 
-- [Create React App](https://github.com/facebook/create-react-app/tree/master)
-- [Angular CLI](https://cli.angular.io/)
 <ol>
   <li class="fragment">[Yeoman](http://yeoman.io/)</li>
   <li class="fragment">[Create React App](https://github.com/facebook/create-react-app/tree/master)</li>
