@@ -13,10 +13,11 @@
 
 +++
 
+![zsh-shell](assets/img/zsh-shell.png)
+
 ## [zsh](http://zsh.sourceforge.net/Intro/intro_toc.html)
 
 - [Installation](https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH)
-
 - [Startup Files](http://zsh.sourceforge.net/Intro/intro_3.html)
 - [Aliasing](http://zsh.sourceforge.net/Intro/intro_8.html)
 
