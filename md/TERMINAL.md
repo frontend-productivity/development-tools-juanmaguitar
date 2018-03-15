@@ -349,7 +349,13 @@ source $ZSH/oh-my-zsh.sh
 
 +++
 
-## [Oh my zsh](http://ohmyz.sh/)
+### [Oh my zsh](http://ohmyz.sh/)
+
+<ol>
+  <li class="fragment">Themes</li>
+  <li class="fragment">Plugins</li>
+  <li class="fragment">and more...</li>
+</ol>
 
 +++
 
@@ -357,10 +363,10 @@ source $ZSH/oh-my-zsh.sh
 
 +++
 
-[agnoster](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes#agnoster)
+[agnoster](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes#agnoster)  
 ![agnoster](https://cloud.githubusercontent.com/assets/2618447/6316862/70f58fb6-ba03-11e4-82c9-c083bf9a6574.png)
 
 +++
 
-[node](https://github.com/skuridin/oh-my-zsh-node-theme)
+[node](https://github.com/skuridin/oh-my-zsh-node-theme)  
 ![node](https://github.com/skuridin/oh-my-zsh-node-theme/raw/master/screenshot.png)
