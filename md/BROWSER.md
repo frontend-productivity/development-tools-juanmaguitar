@@ -45,5 +45,19 @@
 
 ![Network](https://developers.google.com/web/tools/chrome-devtools/network-performance/imgs/panes.png)
 
++++
 
+### [Application](https://developers.google.com/web/tools/chrome-devtools/manage-data/local-storage)
+
+![Network](https://developers.google.com/web/tools/chrome-devtools/manage-data/imgs/idb-tab.png)
+
+
++++
+
+### [Add Ons](https://chrome.google.com/webstore/category/extensions?hl=en)
+
++++
+
+### [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn?hl=en)  
+![Clear Cache](https://lh3.googleusercontent.com/dut6Sky38-1hFO016gjgegrEwU4BVcxldYM2WKNe6I6FvIDn4FxBM4oAS4IZYXGIOteqkvFzpg=w640-h400-e365)
 
