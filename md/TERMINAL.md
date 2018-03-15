@@ -361,6 +361,8 @@ source $ZSH/oh-my-zsh.sh
 
 ## [Themes](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes)
 
+`ZSH_THEME="node"`
+
 +++
 
 ### [agnoster](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes#agnoster)  
@@ -375,7 +377,7 @@ source $ZSH/oh-my-zsh.sh
 
 ## [Plugins](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins)
 
-`plucugins=(git cloudapp node npm bower brew osx extract z zsh-navigation-tools)`
+`plugins=(git cloudapp node npm bower brew osx extract z zsh-navigation-tools)`
 
 +++
 
