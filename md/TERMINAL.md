@@ -359,27 +359,27 @@ source $ZSH/oh-my-zsh.sh
 
 +++
 
-[Themes](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes)
+## [Themes](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes)
 
 +++
 
-[agnoster](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes#agnoster)  
+### [agnoster](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes#agnoster)  
 ![agnoster](https://cloud.githubusercontent.com/assets/2618447/6316862/70f58fb6-ba03-11e4-82c9-c083bf9a6574.png)
 
 +++
 
-[node](https://github.com/skuridin/oh-my-zsh-node-theme)  
+### [node](https://github.com/skuridin/oh-my-zsh-node-theme)  
 ![node](https://github.com/skuridin/oh-my-zsh-node-theme/raw/master/screenshot.png)
 
 +++
 
-[Plugins](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins)
+## [Plugins](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins)
 
 `plucugins=(git cloudapp node npm bower brew osx extract z zsh-navigation-tools)`
 
 +++
 
-[`git`](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugin:git) plugin  
+### [`git`](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugin:git) plugin  
 provides many aliases and a few useful functions for git
 
 - `gst`	→ `git status`
@@ -390,7 +390,7 @@ provides many aliases and a few useful functions for git
 
 +++
 
-[`osx`](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#osx) plugin  
+### [`osx`](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#osx) plugin  
 utils for macos
 
 - `ofd`	→ Open the current directory in a Finder window
@@ -398,7 +398,7 @@ utils for macos
 
 +++
 
-[`wd`](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#wd) plugin  
+### [`wd`](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#wd) plugin  
 like bookmarks for dirs
 
 - `wd add test`	→ Add `test` alias for current directory
@@ -407,7 +407,7 @@ like bookmarks for dirs
 
 +++
 
-[`zsh-navigation-toolswd`](https://github.com/psprint/zsh-navigation-tools) plugin  
+### [`zsh-navigation-tools`](https://github.com/psprint/zsh-navigation-tools) plugin  
 command line history navigation
 
 - `Ctrl-R`	→ start n-history, the incremental, multi-keyword history searcher (Zsh binding)
