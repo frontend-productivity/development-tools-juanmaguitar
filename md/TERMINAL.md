@@ -11,7 +11,14 @@
   <li class="fragment">Highly customizable</li>
 </ol>
 
-+++?image=assets/img/oh-my-zsh-cover.png
++++
+
+## [zsh](http://zsh.sourceforge.net/Intro/intro_toc.html)
+
+- [Installation](https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH)
+
+- [Startup Files](http://zsh.sourceforge.net/Intro/intro_3.html)
+- [Aliasing](http://zsh.sourceforge.net/Intro/intro_8.html)
 
 +++
 
@@ -232,4 +239,6 @@ alias npmo="sudo npm install --cache-min 999999999"
 @[143](cleanup → clean .DS_Store)
 @[153](emptytrash → clean bin trash)
 @[156](hidedesktop → Hide Desktop)
-@[156](showdesktop → Show Desktop)
+@[157](showdesktop → Show Desktop)
+
++++?image=assets/img/oh-my-zsh-cover.png
