@@ -22,10 +22,10 @@
   <li class="fragment">[Create React App](https://github.com/facebook/create-react-app/tree/master)</li>
   <li class="fragment">[Angular CLI](https://cli.angular.io/)</li>
   <li class="fragment">
-    [Starters](https://github.com/search?o=desc&q=starter&s=updated&type=Repositories&utf8=%E2%9C%93)...
+    Github → [Starters](https://github.com/search?o=desc&q=starter&s=updated&type=Repositories&utf8=%E2%9C%93), [Boilerplates](https://github.com/search?o=desc&q=boilerplate&s=updated&type=Repositories&utf8=%E2%9C%93), [Scaffolding](https://github.com/search?o=desc&q=scaffolding&s=updated&type=Repositories&utf8=%E2%9C%93) ...
     <ul>
-      <li class="fragment">https://github.com/addyosmani/starter</li>
-      <li class="fragment">https://github.com/SinanMtl/webpack-simple-starter</li>
+      <li class="fragment">https://github.com/brandonsueur/Boilerplate-API</li>
+      <li class="fragment">https://github.com/wbkd/yet-another-webpack-es6-starterkit</li>
       <li class="fragment">etc...</li>
     </ul>
   </li>
