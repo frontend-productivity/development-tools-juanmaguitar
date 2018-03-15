@@ -13,3 +13,25 @@
   <li class="fragment">to start with...</li>
 </ol>
 
++++
+
+### How can i start a new project quickly?
+
+- 
+- [Create React App](https://github.com/facebook/create-react-app/tree/master)
+- [Angular CLI](https://cli.angular.io/)
+<ol>
+  <li class="fragment">[Yeoman](http://yeoman.io/)</li>
+  <li class="fragment">[Create React App](https://github.com/facebook/create-react-app/tree/master)</li>
+  <li class="fragment">[Angular CLI](https://cli.angular.io/)</li>
+  <li class="fragment">
+    [Starters](https://github.com/search?o=desc&q=starter&s=updated&type=Repositories&utf8=%E2%9C%93)...
+    <ul>
+      <li class="fragment">https://github.com/addyosmani/starter</li>
+      <li class="fragment">https://github.com/SinanMtl/webpack-simple-starter</li>
+      <li class="fragment">https://github.com/juanmaguitar/angular-webpack-starter</li>
+    </ul>
+  </li>
+
+</ol>
+
