@@ -26,7 +26,7 @@
     <ul>
       <li class="fragment">https://github.com/addyosmani/starter</li>
       <li class="fragment">https://github.com/SinanMtl/webpack-simple-starter</li>
-      <li class="fragment">https://github.com/juanmaguitar/angular-webpack-starter</li>
+      <li class="fragment">etc...</li>
     </ul>
   </li>
 
