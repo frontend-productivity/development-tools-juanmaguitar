@@ -1,6 +1,6 @@
 ![terminal](assets/img/browser.png)
 
-+++?image=assets/img/cover-chrome.png
++++?image=assets/img/cover-chrome.jpeg
 
 +++
 
