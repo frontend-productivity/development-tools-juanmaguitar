@@ -41,6 +41,8 @@ Or...
   <li class="fragment">And all the magic in between</li>
 </ol>
 
++++ 
+
 ### How do i manage my development tasks in my "javascript" projects (frontend or backend)?
 
 +++?image=https://cdn-images-1.medium.com/max/536/1*0fr3PbT2XqjsMD52sc2-NQ.png&size=contain
