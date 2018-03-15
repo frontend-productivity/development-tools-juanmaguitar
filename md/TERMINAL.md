@@ -321,7 +321,7 @@ ZSH_THEME="node"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git cloudapp node npm bower brew osx extract z zsh-navigation-tools)
+plugins=(git cloudapp node npm bower brew osx extract z zsh-navigation-tools wd)
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
@@ -377,7 +377,7 @@ source $ZSH/oh-my-zsh.sh
 
 ## [Plugins](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins)
 
-`plugins=(git cloudapp node npm bower brew osx extract z zsh-navigation-tools)`
+`plugins=(git cloudapp node npm bower brew osx extract z zsh-navigation-tools wd)`
 
 +++
 
@@ -413,6 +413,10 @@ like bookmarks for dirs
 command line history navigation
 
 - `Ctrl-R`	→ start n-history, the incremental, multi-keyword history searcher (Zsh binding)
+
++++
+
+More options → https://dotfiles.github.io/
 
 
 
