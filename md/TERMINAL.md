@@ -370,3 +370,52 @@ source $ZSH/oh-my-zsh.sh
 
 [node](https://github.com/skuridin/oh-my-zsh-node-theme)  
 ![node](https://github.com/skuridin/oh-my-zsh-node-theme/raw/master/screenshot.png)
+
++++
+
+[Plugins](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins)
+
+`plucugins=(git cloudapp node npm bower brew osx extract z zsh-navigation-tools)`
+
++++
+
+[`git`](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugin:git) plugin  
+provides many aliases and a few useful functions for git
+
+- `gst`	→ `git status`
+- `gaa`	→ `git add --all`
+- `gcb`	→ `git checkout -b`
+- `gpsup`	→ `git push --set-upstream origin $(current_branch)`
+- `gsta`	→ `git stash save`
+
++++
+
+[`osx`](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#osx) plugin  
+utils for macos
+
+- `ofd`	→ Open the current directory in a Finder window
+- `cdf`	→ `cd` to the current Finder directory
+
++++
+
+[`wd`](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#wd) plugin  
+like bookmarks for dirs
+
+- `wd add test`	→ Add `test` alias for current directory
+- `wd test`	→ go to `test` alias folder from anywhere
+- `wd ..`	→ go to previous directory
+
++++
+
+[`zsh-navigation-toolswd`](https://github.com/psprint/zsh-navigation-tools) plugin  
+command line history navigation
+
+- `Ctrl-R`	→ start n-history, the incremental, multi-keyword history searcher (Zsh binding)
+
+
+
+
+
+
+
+
