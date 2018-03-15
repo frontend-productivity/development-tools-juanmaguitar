@@ -353,3 +353,10 @@ source $ZSH/oh-my-zsh.sh
 
 - [Themes](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes)
 
+- [agnoster](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes#agnoster)
+
+![agnoster](https://cloud.githubusercontent.com/assets/2618447/6316862/70f58fb6-ba03-11e4-82c9-c083bf9a6574.png)
+
+- [node](https://github.com/skuridin/oh-my-zsh-node-theme)
+
+![node](https://github.com/skuridin/oh-my-zsh-node-theme/raw/master/screenshot.png)
