@@ -246,6 +246,16 @@ alias npmo="sudo npm install --cache-min 999999999"
 
 +++
 
+### [Oh my zsh](http://ohmyz.sh/)
+
+<ol>
+  <li class="fragment">Themes</li>
+  <li class="fragment">Plugins</li>
+  <li class="fragment">and more...</li>
+</ol>
+
++++
+
 Initial Config at `~/.zshrc`
 ```
 # If you come from bash you might have to change your $PATH.
@@ -346,16 +356,6 @@ source $ZSH/oh-my-zsh.sh
 @[5](Path to your oh-my-zsh installation)
 @[13](Set your theme)
 @[64](Set your plugins)
-
-+++
-
-### [Oh my zsh](http://ohmyz.sh/)
-
-<ol>
-  <li class="fragment">Themes</li>
-  <li class="fragment">Plugins</li>
-  <li class="fragment">and more...</li>
-</ol>
 
 +++
 
