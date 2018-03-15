@@ -13,6 +13,9 @@
 
 +++?image=assets/img/oh-my-zsh-cover.png
 
++++
+
+Aliases
 ```
 alias t='tree -I node_modules'
 alias homestead='function __homestead() { (cd ~/Homestead && vagrant $*); unset -f __homestead; }; __homestead'
