@@ -10,3 +10,4 @@ How much time do you need to change from one task/project to another?
 ---?include=md/EDITORS.md
 ---?include=md/TERMINAL.md
 ---?include=md/BROWSER.md
+---?include=md/SCAFFOLDING.md
