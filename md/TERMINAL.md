@@ -379,7 +379,7 @@ source $ZSH/oh-my-zsh.sh
 
 +++
 
-### [`git`](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugin:git) plugin  
+### [`git`](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugin:git)  
 provides many aliases and a few useful functions for git
 
 - `gst`	→ `git status`
@@ -390,7 +390,7 @@ provides many aliases and a few useful functions for git
 
 +++
 
-### [`osx`](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#osx) plugin  
+### [`osx`](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#osx)  
 utils for macos
 
 - `ofd`	→ Open the current directory in a Finder window
@@ -398,7 +398,7 @@ utils for macos
 
 +++
 
-### [`wd`](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#wd) plugin  
+### [`wd`](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#wd)  
 like bookmarks for dirs
 
 - `wd add test`	→ Add `test` alias for current directory
@@ -407,7 +407,7 @@ like bookmarks for dirs
 
 +++
 
-### [`zsh-navigation-tools`](https://github.com/psprint/zsh-navigation-tools) plugin  
+### [`zsh-navigation-tools`](https://github.com/psprint/zsh-navigation-tools)  
 command line history navigation
 
 - `Ctrl-R`	→ start n-history, the incremental, multi-keyword history searcher (Zsh binding)
