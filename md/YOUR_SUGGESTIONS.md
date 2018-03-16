@@ -1,6 +1,6 @@
 ## Your Suggestions
 Tools you (the audience) suggested during the talk  
-_[15-03-2018]_
+_15-03-2018_
 
 +++
 
