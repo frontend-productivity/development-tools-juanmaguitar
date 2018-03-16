@@ -1,5 +1,6 @@
 ## Your Suggestions
-Tools you (the audience) suggested during the talk (15-03-2018)
+Tools you (the audience) suggested during the talk  
+(15-03-2018)
 
 +++
 
@@ -12,8 +13,8 @@ Tools you (the audience) suggested during the talk (15-03-2018)
 
 ### Tips for Chrome
 
-CMD+R -> Reload
-CMD+SHIFT+R -> Clean cache & reload
+- `CMD+R` -> Reload
+- `CMD+SHIFT+R` -> Clean cache & reload
 
 +++
 
