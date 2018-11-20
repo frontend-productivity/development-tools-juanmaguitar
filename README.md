@@ -1,4 +1,11 @@
-# Development tools
+# Frontend Producivity Talk
+
+Slides created from markdown fileas at `pitchme` branch throgh https://gitpitch.com/
+Online Slides Available at https://gitpitch.com/frontend-productivity/development-tools-juanmaguitar/pitchme
+
+https://twitter.com/juanmaguitar/status/974378845892763654
+
+-----
 
 Take some time to write the tools (commands, editors, starters, linters..) you use to be more productive in your daily basis work
 
