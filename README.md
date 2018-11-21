@@ -1,7 +1,7 @@
 # Frontend Producivity Talk
 
 Slides created from markdown fileas at `pitchme` branch throgh https://gitpitch.com/
-Online Slides Available at https://gitpitch.com/trainings-juanmaguitar/development-tools-juanmaguitar/pitchme#/
+Online Slides Available at https://gitpitch.com/trainings-juanmaguitar/frontend-productivity-talk/pitchme#/
 
 https://twitter.com/juanmaguitar/status/974378845892763654
 
